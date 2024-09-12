@@ -1,1 +1,1 @@
-# DataCamp's Data Science Track: 02 Intermediate Python
+# Chapter 2. Intermediate Python
