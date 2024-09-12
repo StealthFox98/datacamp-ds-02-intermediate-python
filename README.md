@@ -1,2 +1,1 @@
-# datacamp_ds_02_intermediate_python
-Chapter 2: Intermediate Python
+# DataCamp's Data Science Track: 01 Introduction to Python
